@@ -1,0 +1,97 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a203f9a652753c3eb747c5bb14407b63e0229025
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+<<<<<<< HEAD
+>>>>>>> a203f9a652753c3eb747c5bb14407b63e0229025
+=======
+>>>>>>> a203f9a652753c3eb747c5bb14407b63e0229025
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  text-align: center;
+  background-color: cornflowerblue;
+  width: 80%;
+  margin: auto;
+  color: white;
+  border-radius: 8px;
+  padding: 8px 8px;
+<<<<<<< HEAD
+<<<<<<< HEAD
+  margin-top: 10px;
+}
+
+button {
+  background-color: #fff;
+  color: cornflowerblue;
+  padding: 4px 8px;
+  outline: none;
+  border-radius: 1px;
+  font-size: 17px;
+  cursor: pointer;
+  margin-bottom: 30px;
+=======
+=======
+>>>>>>> a203f9a652753c3eb747c5bb14407b63e0229025
+}
+
+button,
+.welcome-btn {
+  background-color: #fff;
+  color: cornflowerblue;
+  padding: 4px 8px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+  flex-wrap: wrap;
+}
+
+.welcome-btn {
+  color: #fff;
+  background-color: cornflowerblue;
+  font-size: 20px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: cornflowerblue;
+  width: 100%;
+  color: #fff;
+  padding-left: 10px;
+}
+
+nav ul {
+  list-style: none;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+  color: #fff;
+<<<<<<< HEAD
+>>>>>>> a203f9a652753c3eb747c5bb14407b63e0229025
+=======
+>>>>>>> a203f9a652753c3eb747c5bb14407b63e0229025
+}
